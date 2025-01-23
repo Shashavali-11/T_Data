@@ -206,69 +206,69 @@
   "pnr_c": [
     {
       "Train_Number" : 127861,
-      "pnr no": 4212596777,
+      "pnro": 4212596777,
       "status": "CNF",
       "couches": "S1",
       "seats": "1"
     },
     {
       "Train_Number": 170242,
-      "pnr no": 6201234577,
+      "pnro": 6201234577,
       "status": "RAC",
       "couches": "S10",
       "seats": "45"
     },
     {
       "Train_Number": 106353,
-      "pnr no": 2117664369,
+      "pnro": 2117664369,
       "status": "Waiting List",
       "seats" : "WL10"
     },
     {
       "Train_Number" : 127974,
-      "pnr no": 6453902134,
+      "pnro": 6453902134,
       "status": "CNF",
       "couches": "S11",
       "seats": "19"
     },
     {
       "Train_Number" : 122205,
-      "pnr no": 2512097341,
+      "pnro": 2512097341,
       "status": "CNF",
       "couches": "S7",
       "seats": "36"
     },
     {
       "Train_Number" : 127986,
-      "pnr no": 2134569870,
+      "pnro": 2134569870,
       "status": "CNF",
       "couches": "S3",
       "seats": "39"
     },
     {
       "Train_Number": 127237,
-      "pnr no": 2313490876,
+      "pnro": 2313490876,
       "status": "RAC",
       "couches": "S4",
       "seats": "55"
     },
     {
       "Train_Number": 129758,
-      "pnr no": 2412765430,
+      "pnro": 2412765430,
       "status": "RAC",
       "couches": "S8",
       "seats": "43"
     },
     {
       "Train_Number": 172529,
-      "pnr no": 1235430867,
+      "pnro": 1235430867,
       "status": "RAC",
       "couches": "S2",
       "seats": "21"
     },
     {
       "Train_Number": 17027,
-      "pnr no": 2311664972,
+      "pnro": 2311664972,
       "status": "Waiting List",
       "seats" : "WL33"
     }
